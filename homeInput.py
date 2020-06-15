@@ -65,7 +65,7 @@ def home_input():
                     break
                 else:
                     print("Please type the command correctly")
-                edit_repeat = input("Do you want to check something else in 'Edit'? Yes or No: ")
+                edit_repeat = input("Do you want to check something else in 'Edit'? 'Yes' or 'No'? ")
                 edit_continue = False if ((edit_repeat == 'No') or (edit_repeat == 'no')) else True
 
         elif intro_command_input == 'Explore':
