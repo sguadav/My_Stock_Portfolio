@@ -5,8 +5,8 @@ Using csv files and stock analytics to maintain a portfolio.
 This project consist of an interactive program using user input to maintain and analyze stocks from csv file.
 
 To start the program, open the homeInput.py file and hit run. Start by adding some stocks with the commands specified in '' to edit or see your portfolio and you can also explore different stocks to see some analytics. In this program you can:
-- 'Current': See My Portfolio and current earnings.
-- 'Edit': Change My Portfolio or Add a new stock.
+- 'Current': See MyPortfolio and current earnings.
+- 'Edit': Delete or Add a new stock from MyPortfolio.
 - 'Explore': Check out and analyze a new stock.
 
 Helpful libraries:
