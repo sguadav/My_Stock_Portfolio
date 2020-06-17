@@ -11,6 +11,8 @@ To properly run this program you will need to install:
 - Colorema
 - Datetime
 
+Since the csv file doesn't have any stock information, it is recommendable not to use the 'Current' command until a stock is added through the 'Edit' command.
+
 Running the program
 -
 This project consist of an interactive program using user input to maintain and analyze stocks from csv file.
