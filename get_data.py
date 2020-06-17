@@ -10,7 +10,7 @@ def get_stock_data(stock_ticker) :
     return data_price_list
 
 def open_portfolio():
-    data = pd.read_csv('MyPortfolio\MyStocks.csv') # To run for other files
+    data = pd.read_csv('MyStocks.csv') # To run for other files
     # data = pd.read_csv('MyStocks.csv') To run the program alone
     # Ticker,Shares,Purchase_Price
     return data

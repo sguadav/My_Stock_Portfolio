@@ -54,10 +54,10 @@ def intrinsic_val_calculation(stock_ticker):
         try:
             print(Fore.RED + "Warning! The EPS must be positive to do this Intrinsic Value Calculation"
                   + Style.RESET_ALL)
-            stock_eps_input = float(input("\nWhat's " + stock_ticker + " EPS? "))
+            stock_eps_input = float(input("\nWhat is " + stock_ticker + "'s EPS? "))
             if stock_eps_input < 0:
                 print("Sorry! We can't calculate the intrinsic value with a negative EPS")
-            stock_growth_rate_input = float(input("What's " + stock_ticker + " Growth Rate? "))
+            stock_growth_rate_input = float(input("What is " + stock_ticker + "'s Growth Rate? "))
             break
         except ValueError:
             print("The input must be numbers (Example: '25', '2.5', etc.)")
