@@ -16,7 +16,7 @@ Running the program
 This project consist of an interactive program using user input to maintain and analyze stocks from csv file.
 
 To start the program, open the homeInput.py file and hit run. Start by adding some stocks with the commands specified between '' to call the different commands. In this program you can:
-![](images/Intro.png)
+![](images/Intro.PNG)
 
 Each command has its own step of subcommands that allow you to do a specific thing within the command you entered.
 
