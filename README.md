@@ -1,5 +1,8 @@
 # Stock Portfolio Manager
-This is an interactive program that helps you maintain your stock portfolio. When running the program, you will be able to see the different options you have and what you can do. The program allows you to: see your current portfolio and analyze some stocks, edit your current portfolio, and explore other stocks in the market and do some analysis. 
+This is an interactive program that helps you maintain your stock portfolio. When running the program, you will be able to see the different options you have and what you can do. The program allows you to: 
+- See your current portfolio and analyze some stocks
+- Edit your current portfolio
+- Explore other stocks in the market and do some analysis. 
 
 Code and Resources Used
 -
