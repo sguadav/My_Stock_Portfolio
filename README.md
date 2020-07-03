@@ -1,7 +1,7 @@
 # Stock Portfolio Manager
 This is an interactive program that helps you maintain your stock portfolio. When running the program, you will be able to see the different options you have and what you can do. The program allows you to: see your current portfolio and analyze some stocks, edit your current portfolio, and explore other stocks in the market and do some analysis. 
 
-Getting Started
+Code and Resources Used
 -
 To properly run this program you will need to install:
 - Python 3.7
@@ -10,8 +10,9 @@ To properly run this program you will need to install:
 - Matplotlib
 - Colorema
 - Datetime
-
-Since the csv file doesn't have any stock information, it is recommendable not to use the 'Current' command until a stock is added through the 'Edit' command.
+Link to my sources on financial analysis:
+- Simranpal Singh youtube channel: Simranpal explains how to do some intrinsic value calculation that were very helpful https://www.youtube.com/channel/UCOi_Zu4asFEMKISIbL9yuUA
+- Luke Posey's MACD in Python: https://towardsdatascience.com/implementing-macd-in-python-cc9b2280126a
 
 Running the program
 -
@@ -39,8 +40,4 @@ QCOM Intrinsic Value Calculation:
 
 <img src='images/intrinsic_full.PNG' width=500 location=center>
 
-Acknowledgments
--
-Link to my sources on financial analysis:
-- Simranpal Singh youtube channel: Simranpal explains how to do some intrinsic value calculation that were very helpful https://www.youtube.com/channel/UCOi_Zu4asFEMKISIbL9yuUA
-- Luke Posey's MACD in Python: https://towardsdatascience.com/implementing-macd-in-python-cc9b2280126a
+
