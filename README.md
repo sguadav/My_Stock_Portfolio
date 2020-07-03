@@ -10,6 +10,7 @@ To properly run this program you will need to install:
 - Matplotlib
 - Colorema
 - Datetime
+
 Link to my sources on financial analysis:
 - Simranpal Singh youtube channel: Simranpal explains how to do some intrinsic value calculation that were very helpful https://www.youtube.com/channel/UCOi_Zu4asFEMKISIbL9yuUA
 - Luke Posey's MACD in Python: https://towardsdatascience.com/implementing-macd-in-python-cc9b2280126a
